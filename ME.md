@@ -1,7 +1,7 @@
 Hi 👋 My name is Chrisnico Alexander Hutapea
 ============================================
 
-Student
+Informatics Engineering Students at Sumatera Institute of Technology
 -------
 
 I interested to become Front End Developer.
